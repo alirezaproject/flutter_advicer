@@ -39,8 +39,8 @@ class AppTheme {
       fontSize: 16);
 
   static const TextTheme _lightTextTheme = TextTheme(
-    headline1: _lightHeadingText,
-    bodyText1: _lightBodyText,
+    displayLarge: _lightHeadingText,
+    bodyLarge: _lightBodyText,
   );
 
   // *****************
